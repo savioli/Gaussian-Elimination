@@ -1,7 +1,7 @@
 
 # Gaussian Elimination
 
-C++ implementation of Gaussian Elimination With Forward Elimination and Back Substitution
+C++ implementation of Gaussian Elimination with Forward Elimination and Back Substitution
 
 ## Example Output
 
